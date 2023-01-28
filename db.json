@@ -1,0 +1,12 @@
+{
+    "words": [
+      { "id": 1, "wordfr": "bonjour", "wordnl": "goedemorgen" },
+      { "id": 2, "wordfr": "pomme", "wordnl": "appel" },
+      { "id": 3, "wordfr": "pain", "wordnl": "brood" },
+      { "id": 4, "wordfr": "glace", "wordnl": "ijs" }
+    ],
+    "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 }
+    ],
+    "profile": { "name": "typicode" }
+  }
